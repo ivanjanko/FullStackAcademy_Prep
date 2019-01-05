@@ -14,8 +14,13 @@ Are You Ready? Fullstack Practice Questions
 * 75 min for 6 [questions](https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464) 
 
 
-Addmition Preparation<br>
-https://www.fullstackacademy.com/admissions-preparation
+[Addmition Preparation](https://www.fullstackacademy.com/admissions-preparation)
+* codewars [easy](https://www.codewars.com/collections/easy-6)
+* codewars [medium](https://www.codewars.com/collections/medium-1)
+* bootcamp-prep in [person & online](https://www.fullstackacademy.com/bootcamp-prep)
+* Coding Assessment Practice [Tutorial](https://www.hackerrank.com/tests/5329c6451da7d/20b1357126b4e73e7c74bd63567b4bf1)
+* in person classes
+* more online resources
 
 
 <br>----- Learn -----<br>
