@@ -1,25 +1,25 @@
 
 <br>----- Practice 1 -----<br>
 
-I did Admision Prep Worksop on 01/05/2019 10am to 1pm - [questions](https://www.hackerrank.com/tests/40edorm64lt/questions)
+Admision Prep Worksop on 01/05/2019 from 10am to 1pm
+* [questions](https://www.hackerrank.com/tests/40edorm64lt/questions)
 
 * my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep) to the some questions
 
-
 * [solution](https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js) given by the host<br>
-
 
 * video [solution](https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d)
 
-Are You Ready? Fullstack Practice Questions<br>
-6 questions 75 min<br>
-https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464
+Are You Ready? Fullstack Practice Questions
+* 75 min for 6 [questions](https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464) 
+
 
 Addmition Preparation<br>
 https://www.fullstackacademy.com/admissions-preparation
 
 
 <br>----- Learn -----<br>
+
 Bootcamp Prep --- progres
 1. Pre-Work - done
 2. Bootcamp Prep
@@ -52,5 +52,5 @@ https://ttp.nyc/web-development-fellowship
 * WDF - [FAQs](https://docs.google.com/document/d/1r_wm7JEAaTnA-StB1kQd5QbiFSeoS7z-uXm80MWwO1Y/edit#heading=h.47tyvwil04jf )
 
 
-<br>----- discusion / forum -----<br>
+<br>----- Discusion / Forum -----<br>
 http://discuss.fullstackacademy.com/top/all
