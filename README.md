@@ -1,5 +1,5 @@
 
------ Practice 1 -----<br>
+<br>----- Practice 1 -----<br>
 
 I did Admision Prep Worksop on 01/05/2019 10am to 1pm<br>
 https://www.hackerrank.com/tests/40edorm64lt/questions
@@ -20,7 +20,7 @@ Addmition Preparation<br>
 https://www.fullstackacademy.com/admissions-preparation
 
 
------ Learn -----<br>
+<br>----- Learn -----<br>
 Bootcamp Prep --- progres
 1. Pre-Work - done
 2. Bootcamp Prep
@@ -29,13 +29,13 @@ Bootcamp Prep --- progres
 
 https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/text
 
-- videos to watch
+videos to watch<br>
 https://www.youtube.com/watch?v=yph4mDPyzAk
 https://www.youtube.com/watch?v=_EPjYxCsoMk
 https://www.facebook.com/FullstackAcademy/videos/1847823028580824/ 
 
 
------ Practice 2 -----<br>
+<br>----- Practice 2 -----<br>
 - CodeWars
 https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc
 
