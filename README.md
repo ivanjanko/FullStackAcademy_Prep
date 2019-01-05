@@ -1,14 +1,14 @@
 
 <br>----- Practice 1 -----<br>
 
-I did Admision Prep Worksop on 01/05/2019 10am to 1pm<br>
-https://www.hackerrank.com/tests/40edorm64lt/questions
+I did Admision Prep Worksop on 01/05/2019 10am to 1pm - [questions](https://www.hackerrank.com/tests/40edorm64lt/questions)
 
-my solutions to the some questions<br>
-https://repl.it/@ivanjanko/FullStackAcademyPrep
+my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep) to the some questions
 
-solutions given by the host<br>
-https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js
+
+[solution](https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js) given by the host<br>
+
+
 video explenation<br>
 https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d
 
@@ -36,11 +36,11 @@ https://www.facebook.com/FullstackAcademy/videos/1847823028580824/
 
 
 <br>----- Practice 2 -----<br>
-- CodeWars
-https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc
+- [CodeWars]
+(https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc)
 
-- The HackerRank Interview Preparation Kit (0/69 solved)
-https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback
+- The HackerRank Interview Preparation Kit [(0/69 solved)]
+(https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
 
 
 <br>----- Application Page -----<br>
