@@ -50,11 +50,10 @@ https://www.fullstackacademy.com/apply
 ----- NYC Web Development Fellowship -----<br>
 https://ttp.nyc/web-development-fellowship 
 
-application deadline 01/06/19
-https://www.fullstackacademy.com/nyc-fellowship? 
+application deadline [01/06/19]
+(https://www.fullstackacademy.com/nyc-fellowship)
 
-WDF - FAQs
-https://docs.google.com/document/d/1r_wm7JEAaTnA-StB1kQd5QbiFSeoS7z-uXm80MWwO1Y/edit#heading=h.47tyvwil04jf 
+WDF - [FAQs](https://docs.google.com/document/d/1r_wm7JEAaTnA-StB1kQd5QbiFSeoS7z-uXm80MWwO1Y/edit#heading=h.47tyvwil04jf )
 
 
 ----- discusion / forum -----<br>
