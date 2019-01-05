@@ -47,7 +47,7 @@ https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=h
 https://www.fullstackacademy.com/apply 
 
 
------ NYC Web Development Fellowship -----
+<br>----- NYC Web Development Fellowship -----<br>
 https://ttp.nyc/web-development-fellowship 
 
 * application deadline [01/06/19](https://www.fullstackacademy.com/nyc-fellowship)
