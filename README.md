@@ -1,13 +1,13 @@
 
------ Practice 1 -----
+----- Practice 1 -----\
 
-I did Admision Prep Worksop on 01/05/2019 10am to 1pm
-https://www.hackerrank.com/tests/40edorm64lt/questions
+I did Admision Prep Worksop on 01/05/2019 10am to 1pm\
+https://www.hackerrank.com/tests/40edorm64lt/questions\
 
-my solutions to the some questions
-https://repl.it/@ivanjanko/FullStackAcademyPrep 
+my solutions to the some questions\
+https://repl.it/@ivanjanko/FullStackAcademyPrep\
 
-solutions given by the host
+solutions given by the host\
 https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js
 video explenation
 https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d
