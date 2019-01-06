@@ -22,7 +22,7 @@ http://discuss.fullstackacademy.com/top/all
 Admision Prep Worksop on 01/05/2019 from 10am to 1pm
 * 120 min for 12 [questions](https://www.hackerrank.com/tests/40edorm64lt/a87677ce4a8fdef22eb783e259553732) and my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep)
 
-* FSA [code](https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js) and [video] solution(https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d)
+* FSA [code](https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js) and [video](https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d) solution
 
 Are You Ready? Fullstack Practice Questions
 * 75 min for 6 [questions](https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464) 
