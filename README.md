@@ -20,14 +20,11 @@ http://discuss.fullstackacademy.com/top/all
 <br>----- Practice 1 -----<br>
 
 Admision Prep Worksop on 01/05/2019 from 10am to 1pm
-* [questions](https://www.hackerrank.com/tests/40edorm64lt/questions)
+* 120 min for 12 [questions](https://www.hackerrank.com/tests/40edorm64lt/a87677ce4a8fdef22eb783e259553732)
 
-* my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep) to the some questions
+* my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep)
 
-* [solution](https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js) given by the host<br>
-
-* video [solution](https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d)
-
+* FSA code [solution](https://gist.github.com/ScottDalessandro/6403e013c587c48ab78e#file-GraceHopperHackerRank-js) and video [solution](https://gist.github.com/Kmacpher/d8d21cf61c38fb8194b6873ac4f2217d)
 
 Are You Ready? Fullstack Practice Questions
 * 75 min for 6 [questions](https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464) 
