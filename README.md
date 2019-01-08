@@ -38,7 +38,7 @@ Are You Ready? Fullstack Practice Questions
 
 <br>----- Learn -----<br>
 
-### Bootcamp [Prep](https://learn.fullstackacademy.com/workshop) [*](https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/tex)
+#### Bootcamp [Prep](https://learn.fullstackacademy.com/workshop) [*](https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/tex)
 
 1. Pre-Work
 2. Bootcamp Prep
@@ -46,7 +46,7 @@ Are You Ready? Fullstack Practice Questions
 - Loops and Debugging
 - Coercion and Truthiness
 - Scope
-<br>--- progres ---<br>
+<br>----- || -----<br>
 - Arrays I
 - Arrays II
 - Objects
