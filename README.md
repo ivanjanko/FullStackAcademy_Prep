@@ -41,8 +41,12 @@ Are You Ready? Fullstack Practice Questions
 Bootcamp Prep --- progres
 1. Pre-Work - done
 2. Bootcamp Prep
-  - Introduction
-  - Loops and Debugging
+  - [x] Introduction
+  - [x] Loops and Debugging
+  - [x] Coercion and Truthiness
+  - [x] Scope
+  - [ ] Arrays I
+  - [ ] Arrays II
 
 https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/text
 
