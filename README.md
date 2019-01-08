@@ -38,11 +38,11 @@ Are You Ready? Fullstack Practice Questions
 
 <br>----- Learn -----<br>
 
-Bootcamp [Prep](https://learn.fullstackacademy.com/workshop)
-** 1. Pre-Work - done
+## Bootcamp [Prep](https://learn.fullstackacademy.com/workshop)
+#### 1. Pre-Work - done
 2. Bootcamp Prep
-  - - [x] Introduction
-  - - [x] Loops and Debugging
+  > - [x] Introduction
+  > - [x] Loops and Debugging
   - - [x] Coercion and Truthiness
   - - [x] Scope
   - - [ ] Arrays I
