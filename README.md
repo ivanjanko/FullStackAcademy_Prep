@@ -38,9 +38,9 @@ Are You Ready? Fullstack Practice Questions
 
 <br>----- Learn -----<br>
 
-## Bootcamp [Prep](https://learn.fullstackacademy.com/workshop)
+### Bootcamp [Prep](https://learn.fullstackacademy.com/workshop) [link2](https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/tex)
 #### 1. Pre-Work - done
-2. Bootcamp Prep
+##### 2. Bootcamp Prep
   > - [x] Introduction
   > - [x] Loops and Debugging
   > - [x] Coercion and Truthiness
@@ -56,7 +56,6 @@ Are You Ready? Fullstack Practice Questions
   > - [ ] Recursion II
   > - [ ] Next Steps
 
-https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/text
 
 videos to watch<br>
 https://www.youtube.com/watch?v=yph4mDPyzAk
