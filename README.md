@@ -46,7 +46,7 @@ Are You Ready? Fullstack Practice Questions
 - Loops and Debugging
 - Coercion and Truthiness
 - Scope
---- progres ---
+<br>--- progres ---<br>
 - Arrays I
 - Arrays II
 - Objects
