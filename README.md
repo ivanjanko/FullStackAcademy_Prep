@@ -42,11 +42,11 @@ Are You Ready? Fullstack Practice Questions
 
 1. Pre-Work
 2. Bootcamp Prep
-- Introduction *
+- Introduction
 - Loops and Debugging
 - Coercion and Truthiness
 - Scope
------------
+----- ------
 - Arrays I
 - Arrays II
 - Objects
