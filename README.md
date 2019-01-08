@@ -43,18 +43,18 @@ Are You Ready? Fullstack Practice Questions
 2. Bootcamp Prep
   > - [x] Introduction
   > - [x] Loops and Debugging
-  - - [x] Coercion and Truthiness
-  - - [x] Scope
-  - - [ ] Arrays I
-  - - [ ] Arrays II
-  - - [ ] Objects
-  - - [ ] Objects Methods
-  - - [ ] PBV vs PBR
-  - - [ ] Higher Order Functions I
-  - - [ ] Higher Order Functions II
-  - - [ ] Recursion I
-  - - [ ] Recursion II
-  - - [ ] Next Steps
+  > - [x] Coercion and Truthiness
+  > - [x] Scope
+  > - [ ] Arrays I
+  > - [ ] Arrays II
+  > - [ ] Objects
+  > - [ ] Objects Methods
+  > - [ ] PBV vs PBR
+  > - [ ] Higher Order Functions I
+  > - [ ] Higher Order Functions II
+  > - [ ] Recursion I
+  > - [ ] Recursion II
+  > - [ ] Next Steps
 
 https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/text
 
