@@ -40,12 +40,13 @@ Are You Ready? Fullstack Practice Questions
 
 ### Bootcamp [Prep](https://learn.fullstackacademy.com/workshop) [*](https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/tex)
 
-1. Pre-Work [x]
+1. Pre-Work
 2. Bootcamp Prep
-- Introduction [x]
-- Loops and Debugging [x]
-- Coercion and Truthiness [x]
-- Scope [x]
+- Introduction *
+- Loops and Debugging
+- Coercion and Truthiness
+- Scope
+-----------
 - Arrays I
 - Arrays II
 - Objects
