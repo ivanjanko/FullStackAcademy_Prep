@@ -40,10 +40,8 @@ Are You Ready? Fullstack Practice Questions
 
 ### Bootcamp [Prep](https://learn.fullstackacademy.com/workshop) [alternative link](https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/tex)
 
-------
-
-#### 1. - [x] Pre-Work
-#### 2. Bootcamp Prep
+##### 1. - [x] Pre-Work
+##### 2. Bootcamp Prep
   > - [x] Introduction
   > - [x] Loops and Debugging
   > - [x] Coercion and Truthiness
@@ -60,9 +58,9 @@ Are You Ready? Fullstack Practice Questions
   > - [ ] Next Steps
 
 <br>
-videos to watch<br>
-https://www.youtube.com/watch?v=yph4mDPyzAk
-https://www.youtube.com/watch?v=_EPjYxCsoMk
+<br>----- Videos -----<br>
+https://www.youtube.com/watch?v=yph4mDPyzAk<br>
+https://www.youtube.com/watch?v=_EPjYxCsoMk<br>
 https://www.facebook.com/FullstackAcademy/videos/1847823028580824/ 
 
 
@@ -70,3 +68,6 @@ https://www.facebook.com/FullstackAcademy/videos/1847823028580824/
 - [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc)
 
 - The HackerRank Interview Preparation Kit [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
+
+<br>----- Markdown -----<br>
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines
