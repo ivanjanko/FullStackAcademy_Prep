@@ -45,15 +45,15 @@ Are You Ready? Fullstack Practice Questions
 - Coercion and Truthiness
 - Scope
 - Arrays I
-<br>----- || -----<br>
 - Arrays II
-- Objects
-- Objects Methods
-- PBV vs PBR
-- Higher Order Functions I
-- Higher Order Functions II
-- Recursion I
-- Recursion II
+<br>----- || -----<br>
+- Objects - 7
+- Objects Methods - 5
+- PBV vs PBR - 6
+- Higher Order Functions I - 5
+- Higher Order Functions II - 7
+- Recursion I - 7
+- Recursion II - 5
 - Next Steps
 
 <br>----- Videos -----<br>
