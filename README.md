@@ -10,11 +10,12 @@
 <br>----- Discusion / Forum -----<br>
 http://discuss.fullstackacademy.com/top/all
 
-[Addmition Preparation](https://www.fullstackacademy.com/admissions-preparation)<br>
+[Addmition Preparation](https://www.fullstackacademy.com/admissions-preparation)
 
 <br>----- Practice HackerRank -----<br>
 
-The HackerRank Interview Preparation Kit [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
+The HackerRank Interview Preparation Kit
+* [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
 
 Admision Prep Worksop on 01/05/2019 from 10am to 1pm
 * 120 min for 12 [questions](https://www.hackerrank.com/tests/40edorm64lt/a87677ce4a8fdef22eb783e259553732) and my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep)
