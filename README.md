@@ -10,9 +10,11 @@
 <br>----- Discusion / Forum -----<br>
 http://discuss.fullstackacademy.com/top/all
 
+[Addmition Preparation](https://www.fullstackacademy.com/admissions-preparation)<br>
 
+<br>----- Practice HackerRank -----<br>
 
-<br>----- Practice -----<br>
+The HackerRank Interview Preparation Kit [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
 
 Admision Prep Worksop on 01/05/2019 from 10am to 1pm
 * 120 min for 12 [questions](https://www.hackerrank.com/tests/40edorm64lt/a87677ce4a8fdef22eb783e259553732) and my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep)
@@ -22,17 +24,17 @@ Admision Prep Worksop on 01/05/2019 from 10am to 1pm
 Are You Ready? Fullstack Practice Questions
 * 75 min for 6 [questions](https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464) 
 
-[Addmition Preparation](https://www.fullstackacademy.com/admissions-preparation)
-* Codewars [easy](https://www.codewars.com/collections/easy-6)
-* Codewars [medium](https://www.codewars.com/collections/medium-1)
-* Codewars [hard](https://www.codewars.com/collections/hard-28)
-* Codewars 8, 7 and 6 kyu [link](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc)
-* bootcamp-prep in [person & online](https://www.fullstackacademy.com/bootcamp-prep)
-* The HackerRank Interview Preparation Kit [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
-* in person classes
-* more online resources
+<br>----- Practice Codewars -----<br>
+
+* [easy](https://www.codewars.com/collections/easy-6)
+* [medium](https://www.codewars.com/collections/medium-1)
+* [hard](https://www.codewars.com/collections/hard-28)
+* 8, 7 and 6 kyu [link](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc)
+
 
 <br>----- Learn -----<br>
+
+* first 4 chapters of http://eloquentjavascript.net/
 
 #### Bootcamp [Prep](https://learn.fullstackacademy.com/workshop) [*](https://learn.fullstackacademy.com/workshop/5a97083f970d1c0004636a5b/content/5a971291b5f0a3000422fbb6/tex)
 
