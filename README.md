@@ -12,7 +12,7 @@ http://discuss.fullstackacademy.com/top/all
 
 
 
-<br>----- Practice 1 -----<br>
+<br>----- Practice -----<br>
 
 Admision Prep Worksop on 01/05/2019 from 10am to 1pm
 * 120 min for 12 [questions](https://www.hackerrank.com/tests/40edorm64lt/a87677ce4a8fdef22eb783e259553732) and my [solution](https://repl.it/@ivanjanko/FullStackAcademyPrep)
@@ -23,16 +23,14 @@ Are You Ready? Fullstack Practice Questions
 * 75 min for 6 [questions](https://www.hackerrank.com/tests/bs7hjfdsonh/8a2b1f2dcdd52809d15464c98ecec464) 
 
 [Addmition Preparation](https://www.fullstackacademy.com/admissions-preparation)
-* codewars [easy](https://www.codewars.com/collections/easy-6)
-* codewars [medium](https://www.codewars.com/collections/medium-1)
+* Codewars [easy](https://www.codewars.com/collections/easy-6)
+* Codewars [medium](https://www.codewars.com/collections/medium-1)
+* Codewars [hard](https://www.codewars.com/collections/hard-28)
+* Codewars 8, 7 and 6 kyu [link](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc)
 * bootcamp-prep in [person & online](https://www.fullstackacademy.com/bootcamp-prep)
-* Coding Assessment Practice [Tutorial](https://www.hackerrank.com/tests/5329c6451da7d/20b1357126b4e73e7c74bd63567b4bf1)
+* The HackerRank Interview Preparation Kit [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
 * in person classes
 * more online resources
-
-<br>----- Practice 2 -----<br>
-- [CodeWars](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&r[]=-7&r[]=-6&tags=Fundamentals,Algorithms,Logic,Data+Types,Strings,Numbers,Arrays,Control+Flow,Loops&beta=false&order_by=total_completed+desc)
-- The HackerRank Interview Preparation Kit [(0/69 solved)](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback)
 
 <br>----- Learn -----<br>
 
