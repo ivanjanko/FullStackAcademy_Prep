@@ -47,8 +47,8 @@ Are You Ready? Fullstack Practice Questions
 - Scope
 - Arrays I
 - Arrays II
-<br>----- || -----<br>
 - Objects - 7
+<br>----- || -----<br>
 - Objects Methods - 5
 - PBV vs PBR - 6
 - Higher Order Functions I - 5
