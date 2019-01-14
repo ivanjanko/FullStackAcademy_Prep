@@ -48,13 +48,13 @@ Are You Ready? Fullstack Practice Questions
 - Arrays I
 - Arrays II
 - Objects - 7
-<br>----- || -----<br>
 - Objects Methods - 5
 - PBV vs PBR - 6
-- Higher Order Functions I - 5
-- Higher Order Functions II - 7
-- Recursion I - 7
-- Recursion II - 5
+<br>----- || -----<br>
+- Higher Order Functions I - 5 - m
+- Higher Order Functions II - 7 - m
+- Recursion I - 7 - t
+- Recursion II - 5 - t
 - Next Steps
 
 <br>----- Videos -----<br>
